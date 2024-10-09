@@ -1,490 +1,114 @@
-Symbol,short_name,industry
-YEG,Tập đoàn Yeah1,Truyền thông
-YBM,Khoáng sản CN Yên Bái,Tài nguyên Cơ bản
-VTP,Bưu chính Viettel,Hàng & Dịch vụ Công nghiệp
-VTO,VITACO,Hàng & Dịch vụ Công nghiệp
-VTB,Viettronics Tân Bình,Hàng & Dịch vụ Công nghiệp
-VSI,Đầu tư và Xây dựng Cấp thoát nước,Bất động sản
-VSH,Thủy điện Vĩnh Sơn - Sông Hinh,"Điện, nước & xăng dầu khí đốt"
-VSC,VICONSHIP,Hàng & Dịch vụ Công nghiệp
-VRE,Vincom Retail,Bất động sản
-VRC,Bất động sản và Đầu tư VRC,Bất động sản
-VPS,Thuốc sát trùng Việt Nam,Hóa chất
-VPI,Đầu tư Văn Phú - Invest,Bất động sản
-VPH,Vạn Phát Hưng,Bất động sản
-VPG,Đầu tư TMại XNK Việt Phát,Tài nguyên Cơ bản
-VPD,Phát triển Điện lực Việt Nam,"Điện, nước & xăng dầu khí đốt"
-VPB,VPBank,Ngân hàng
-VOS,Vận tải Biển Việt Nam,Hàng & Dịch vụ Công nghiệp
-VNS,Ánh Dương Việt Nam,Du lịch và Giải trí
-VNM,VINAMILK,Thực phẩm và đồ uống
-VNL,Vinalink Logistics,Hàng & Dịch vụ Công nghiệp
-VNG,DL Thành Thành Công,Du lịch và Giải trí
-VNE,Xây dựng điện Việt Nam,Xây dựng và Vật liệu
-VND,Chứng khoán VNDIRECT,Dịch vụ tài chính
-VMD,Y Dược phẩm Vimedimex,Y tế
-VJC,Vietjet Air,Du lịch và Giải trí
-VIX,Chứng khoán VIX,Dịch vụ tài chính
-VIP,Vận tải Xăng dầu VIPCO,Hàng & Dịch vụ Công nghiệp
-VID,Viễn Đông,Tài nguyên Cơ bản
-VIC,VinGroup,Bất động sản
-VIB,VIBBank,Ngân hàng
-VHM,Vinhomes,Bất động sản
-VHC,Thủy sản Vĩnh Hoàn,Thực phẩm và đồ uống
-VGC,Tổng Công ty Viglacera,Xây dựng và Vật liệu
-VFG,Khử trùng Việt Nam,Hóa chất
-VDS,Chứng khoán Rồng Việt,Dịch vụ tài chính
-VDP,Dược phẩm VIDIPHA,Y tế
-VCI,Chứng khoán Vietcap,Dịch vụ tài chính
-VCG,VINACONEX,Xây dựng và Vật liệu
-VCF,VinaCafé Biên Hòa,Thực phẩm và đồ uống
-VCB,Vietcombank,Ngân hàng
-VCA,Thép VICASA - VNSTEEL,Tài nguyên Cơ bản
-VAF,Phân lân Văn Điển,Hóa chất
-UIC,Phát triển Nhà và Đô thị IDICO,"Điện, nước & xăng dầu khí đốt"
-TYA,Dây và Cáp điện Taya,Hàng & Dịch vụ Công nghiệp
-TVT,May Việt Thắng,Hàng cá nhân & Gia dụng
-TVS,Chứng khoán Thiên Việt,Dịch vụ tài chính
-TVB,Chứng khoán Trí Việt,Dịch vụ tài chính
-TV2,Tư vấn XD Điện 2,Hàng & Dịch vụ Công nghiệp
-TTF,Gỗ Trường Thành,Tài nguyên Cơ bản
-TTE,ĐT Năng lượng Trường Thịnh,"Điện, nước & xăng dầu khí đốt"
-TTA,XD và PT Trường Thành,"Điện, nước & xăng dầu khí đốt"
-TSC,Kỹ thuật NN Cần Thơ,Hóa chất
-TRC,Cao su Tây Ninh,Hóa chất
-TRA,Traphaco,Y tế
-TPC,Nhựa Tân Đại Hưng,Hóa chất
-TPB,TPBank,Ngân hàng
-TNT,Tập đoàn TNT,Tài nguyên Cơ bản
-TNI,Tập đoàn Thành Nam,Tài nguyên Cơ bản
-TNH,Tập đoàn Bệnh viện TNH,Y tế
-TNC,Cao su Thống Nhất,Hóa chất
-TNA,XNK Thiên Nam,Tài nguyên Cơ bản
-TN1,Rox Key Holdings,Bất động sản
-TMT,Ô tô TMT,Ô tô và phụ tùng
-TMS,Transimex,Hàng & Dịch vụ Công nghiệp
-TMP,Thủy điện Thác Mơ,"Điện, nước & xăng dầu khí đốt"
-TLH,Thép Tiến Lên,Tài nguyên Cơ bản
-TLG,Tập đoàn Thiên Long,Hàng cá nhân & Gia dụng
-TLD,ĐT XD và PT Đô thị Thăng Long,Bất động sản
-TIX,TANIMEX,Bất động sản
-TIP,PT KCN Tín Nghĩa,Bất động sản
-THG,XD Tiền Giang,Xây dựng và Vật liệu
-TEG,TECGROUP,Bất động sản
-TDW,Cấp nước Thủ Đức,"Điện, nước & xăng dầu khí đốt"
-TDP,Công ty Thuận Đức,Hàng & Dịch vụ Công nghiệp
-TDM,Nước Thủ Dầu Một,"Điện, nước & xăng dầu khí đốt"
-TDH,Thủ Đức House,Bất động sản
-TDG,Đầu tư TDG Global,"Điện, nước & xăng dầu khí đốt"
-TDC,Becamex TDC,Bất động sản
-TCT,Cáp treo Tây Ninh,Du lịch và Giải trí
-TCR,Gốm sứ TAICERA,Xây dựng và Vật liệu
-TCO,TCO Holdings,Hàng & Dịch vụ Công nghiệp
-TCM,Dệt may Thành Công,Hàng cá nhân & Gia dụng
-TCL,Tan Cang Logistics,Hàng & Dịch vụ Công nghiệp
-TCI,Chứng khoán Thành Công,Dịch vụ tài chính
-TCH,ĐT DV Tài chính Hoàng Huy,Bất động sản
-TCD,Tập đoàn Xây dựng Tracodi,Xây dựng và Vật liệu
-TCB,Techcombank,Ngân hàng
-TBC,Thủy điện Thác Bà,"Điện, nước & xăng dầu khí đốt"
-SZL,Sonadezi Long Thành,Bất động sản
-SZC,Sonadezi Châu Đức,Bất động sản
-SVT,Công nghệ SG Viễn Đông,Tài nguyên Cơ bản
-SVI,Bao bì Biên Hòa,Hàng & Dịch vụ Công nghiệp
-SVD,Đầu tư & Thương mại Vũ Đăng,Hàng cá nhân & Gia dụng
-SVC,SAVICO,Ô tô và phụ tùng
-STK,Sợi Thế Kỷ,Hàng cá nhân & Gia dụng
-STG,Kho Vận Miền Nam,Hàng & Dịch vụ Công nghiệp
-STB,Sacombank,Ngân hàng
-ST8,Tập đoàn ST8,Công nghệ Thông tin
-SSI,Chứng khoán SSI,Dịch vụ tài chính
-SSC,Giống cây trồng Miền Nam,Thực phẩm và đồ uống
-SSB,SeABank,Ngân hàng
-SRF,SEAREFICO,Hàng & Dịch vụ Công nghiệp
-SRC,Cao su Sao Vàng,Ô tô và phụ tùng
-SPM,S.P.M CORP,Y tế
-SMC,Đầu tư Thương mại SMC,Tài nguyên Cơ bản
-SMB,Bia Sài Gòn - Miền Trung,Thực phẩm và đồ uống
-SMA,Thiết bị Phụ tùng Sài Gòn,"Điện, nước & xăng dầu khí đốt"
-SKG,Tàu Cao tốc Superdong,Du lịch và Giải trí
-SJS,SJ Group,Bất động sản
-SJF,Đầu tư Sao Thái Dương,Hóa chất
-SJD,Thủy điện Cần Đơn,"Điện, nước & xăng dầu khí đốt"
-SIP,Đầu tư Sài Gòn VRG,Bất động sản
-SHP,Thủy điện Miền Nam,"Điện, nước & xăng dầu khí đốt"
-SHI,Quốc tế Sơn Hà,Tài nguyên Cơ bản
-SHB,SHB,Ngân hàng
-SHA,Sơn Hà Sài Gòn,Tài nguyên Cơ bản
-SGT,Sài Gòn Telecom,Công nghệ Thông tin
-SGR,Địa ốc Sài Gòn,Bất động sản
-SGN,Phục vụ mặt đất Sài Gòn,Hàng & Dịch vụ Công nghiệp
-SFI,Vận tải SAFI,Hàng & Dịch vụ Công nghiệp
-SFG,Phân bón Miền Nam,Hóa chất
-SFC,Nhiên liệu Sài Gòn,"Điện, nước & xăng dầu khí đốt"
-SCS,DV Hàng hóa Sài Gòn,Du lịch và Giải trí
-SCR,TTC Land,Bất động sản
-SC5,Xây dựng Số 5,Xây dựng và Vật liệu
-SBV,Siam Brothers Việt Nam,Bán lẻ
-SBT,Mía đường Thành Thành Công - Biên Hòa,Thực phẩm và đồ uống
-SBG,Tập Đoàn Cơ Khí Công Nghệ Cao Siba,Hàng & Dịch vụ Công nghiệp
-SBA,Sông Ba JSC,"Điện, nước & xăng dầu khí đốt"
-SAV,Savimex,Tài nguyên Cơ bản
-SAM,SAM Holdings,Công nghệ Thông tin
-SAB,SABECO,Thực phẩm và đồ uống
-S4A,Thủy điện Sê San 4A,"Điện, nước & xăng dầu khí đốt"
-REE,Cơ Điện Lạnh REE,"Điện, nước & xăng dầu khí đốt"
-RDP,Nhựa Rạng Đông,Hóa chất
-RAL,Bóng đèn Phích nước Rạng Đông,Hàng cá nhân & Gia dụng
-QNP,Cảng Quy Nhơn,Hàng & Dịch vụ Công nghiệp
-QCG,Quốc Cường Gia Lai,Bất động sản
-PVT,Vận tải Dầu khí PVTrans,Hàng & Dịch vụ Công nghiệp
-PVP,Vận tải Dầu khí Thái Bình Dương,Hàng & Dịch vụ Công nghiệp
-PVD,Khoan Dầu khí PVDrilling,Dầu khí
-PTL,Victory Capital,Bất động sản
-PTC,Đầu tư ICAPITAL,Xây dựng và Vật liệu
-PTB,Công ty Cổ phần Phú Tài,Tài nguyên Cơ bản
-PSH,TMại ĐT Dầu khí Nam Sông Hậu,"Điện, nước & xăng dầu khí đốt"
-PPC,Nhiệt điện Phả Lại,"Điện, nước & xăng dầu khí đốt"
-POW,Điện lực Dầu khí Việt Nam,"Điện, nước & xăng dầu khí đốt"
-PNJ,Vàng Phú Nhuận,Hàng cá nhân & Gia dụng
-PNC,Văn hóa Phương Nam,Truyền thông
-PMG,ĐT và SX Petro Miền Trung,"Điện, nước & xăng dầu khí đốt"
-PLX,Petrolimex,Dầu khí
-PLP,SX và CN Nhựa Pha Lê,Hóa chất
-PJT,Vận tải thủy PETROLIMEX,Hàng & Dịch vụ Công nghiệp
-PIT,XNK PETROLIMEX,Bán lẻ
-PHR,Cao su Phước Hòa,Hóa chất
-PHC,Xây dựng Phục Hưng Holdings,Xây dựng và Vật liệu
-PGV,Tổng Công ty Phát điện 3,"Điện, nước & xăng dầu khí đốt"
-PGI,Bảo hiểm PJICO,Bảo hiểm
-PGD,PV GAS D,"Điện, nước & xăng dầu khí đốt"
-PGC,Gas Petrolimex,"Điện, nước & xăng dầu khí đốt"
-PET,Dịch vụ Tổng hợp Dầu khí,Bán lẻ
-PDR,BĐS Phát Đạt,Bất động sản
-PDN,Cảng Đồng Nai,Hàng & Dịch vụ Công nghiệp
-PC1,Tập đoàn PC1,Xây dựng và Vật liệu
-PAN,Tập đoàn PAN,Thực phẩm và đồ uống
-PAC,Pin Ắc quy Miền Nam,Hàng & Dịch vụ Công nghiệp
-ORS,Chứng khoán Tiên Phong,Dịch vụ tài chính
-OPC,Dược phẩm OPC,Y tế
-OGC,Tập đoàn Đại Dương,Dịch vụ tài chính
-OCB,Ngân hàng Phương Đông,Ngân hàng
-NVT,Ninh Vân Bay,Bất động sản
-NVL,Novaland,Bất động sản
-NTL,Đô thị Từ Liêm,Bất động sản
-NT2,Điện lực Nhơn Trạch 2,"Điện, nước & xăng dầu khí đốt"
-NSC,Tập đoàn Giống cây trồng Việt Nam,Thực phẩm và đồ uống
-NO1,Tâp đoàn 911,Hàng & Dịch vụ Công nghiệp
-NNC,Đá Núi Nhỏ,Xây dựng và Vật liệu
-NLG,BĐS Nam Long,Bất động sản
-NKG,Thép Nam Kim,Tài nguyên Cơ bản
-NHT,Sản xuất và Thương mại Nam Hoa,Hàng cá nhân & Gia dụng
-NHH,Nhựa Hà Nội,Hóa chất
-NHA,PT Nhà và Đô thị Nam HN,Xây dựng và Vật liệu
-NCT,DV Hàng hóa Nội Bài,Hàng & Dịch vụ Công nghiệp
-NBB,577 CORP,Bất động sản
-NAV,Tấm lợp và gỗ Nam Việt,Xây dựng và Vật liệu
-NAF,Nafoods Group,Thực phẩm và đồ uống
-NAB,Ngân hàng Nam Á,Ngân hàng
-MWG,Thế giới di động,Bán lẻ
-MSN,Tập đoàn Masan,Thực phẩm và đồ uống
-MSH,May Sông Hồng,Hàng cá nhân & Gia dụng
-MSB,MSB Bank,Ngân hàng
-MIG,Bảo hiểm Quân đội,Bảo hiểm
-MHC,CTCP MHC,Hàng & Dịch vụ Công nghiệp
-MDG,Xây dựng Miền Đông,Xây dựng và Vật liệu
-MCP,In và Bao bì Mỹ Châu,Hàng & Dịch vụ Công nghiệp
-MCM,Giống bò sữa Mộc Châu,Thực phẩm và đồ uống
-MBB,MBBank,Ngân hàng
-LSS,Mía đường Lam Sơn,Thực phẩm và đồ uống
-LPB,LPBank,Ngân hàng
-LM8,LILAMA 18,Xây dựng và Vật liệu
-LIX,Bột Giặt Lix,Hàng cá nhân & Gia dụng
-LHG,KCN Long Hậu,Bất động sản
-LGL,Long Giang Land,Bất động sản
-LGC,Đầu tư Cầu đường CII,Xây dựng và Vật liệu
-LEC,BĐS Điện lực Miền Trung,Bất động sản
-LDG,Đầu tư LDG,Bất động sản
-LCG,LIZEN,Xây dựng và Vật liệu
-LBM,Khoáng sản Lâm Đồng,Xây dựng và Vật liệu
-LAF,Chế biến Hàng XK Long An,Thực phẩm và đồ uống
-L10,LILAMA 10,Hàng & Dịch vụ Công nghiệp
-KSB,Khoáng sản Bình Dương,Tài nguyên Cơ bản
-KPF,Đầu tư Tài sản KOJI,Xây dựng và Vật liệu
-KOS,Công ty KOSY,Bất động sản
-KMR,MIRAE,Hàng cá nhân & Gia dụng
-KHP,Điện lực Khánh Hòa,"Điện, nước & xăng dầu khí đốt"
-KHG,Tập đoàn Khải Hoàn Land,Bất động sản
-KDH,Nhà Khang Điền,Bất động sản
-KDC,Tập đoàn KIDO,Thực phẩm và đồ uống
-KBC,TCT Đô thị Kinh Bắc,Bất động sản
-JVC,Đầu tư và Phát triển Y tế Việt Nhật,Y tế
-ITD,Công nghệ Tiên Phong,Công nghệ Thông tin
-ITC,Đầu tư kinh doanh Nhà,Bất động sản
-ITA,Đầu tư CN Tân Tạo,Bất động sản
-IMP,IMEXPHARM,Y tế
-ILB,ICD Tân Cảng Long Bình,Hàng & Dịch vụ Công nghiệp
-IJC,Becamex IJC,Bất động sản
-IDI,Đầu tư và PT Đa Quốc Gia,Thực phẩm và đồ uống
-ICT,Viễn thông - Tin học Bưu điện,Công nghệ Thông tin
-HVX,Xi măng Vicem Hải Vân,Xây dựng và Vật liệu
-HVN,Vietnam Airlines,Du lịch và Giải trí
-HVH,Đầu tư và Công nghệ HVC,Xây dựng và Vật liệu
-HUB,Xây lắp Huế,Xây dựng và Vật liệu
-HU1,Xây dựng HUD1,Xây dựng và Vật liệu
-HTV,Logistics Vicem,Hàng & Dịch vụ Công nghiệp
-HTN,Hưng Thịnh Incons,Bất động sản
-HTL,Ô tô Trường Long,Ô tô và phụ tùng
-HTI,PT Hạ tầng IDICO,Xây dựng và Vật liệu
-HTG,Dệt may Hòa Thọ,Hàng cá nhân & Gia dụng
-HT1,VICEM Hà Tiên,Xây dựng và Vật liệu
-HSL,Thực phẩm Hồng Hà,Thực phẩm và đồ uống
-HSG,Tập đoàn Hoa Sen,Tài nguyên Cơ bản
-HRC,Cao su Hòa Bình,Hóa chất
-HQC,Địa ốc Hoàng Quân,Bất động sản
-HPX,Đầu tư Hải Phát,Bất động sản
-HPG,Hòa Phát,Tài nguyên Cơ bản
-HNA,Thủy điện Hủa Na,"Điện, nước & xăng dầu khí đốt"
-HMC,Kim khí TP.HCM,Tài nguyên Cơ bản
-HII,An Tiến Industries,Hóa chất
-HID,Halcom Vietnam,Xây dựng và Vật liệu
-HHV,Đầu tư Hạ tầng Giao thông Đèo Cả,Xây dựng và Vật liệu
-HHS,Đầu tư DV Hoàng Huy,Ô tô và phụ tùng
-HHP,HHP Global,Tài nguyên Cơ bản
-HDG,Tập đoàn Hà Đô,Bất động sản
-HDC,Phát triển Nhà BR-VT,Bất động sản
-HDB,HDBank,Ngân hàng
-HCM,Chứng khoán HSC,Dịch vụ tài chính
-HCD,SX và Thương mại HCD,Hóa chất
-HAX,Ô tô Hàng Xanh,Ô tô và phụ tùng
-HAS,Hacisco,Xây dựng và Vật liệu
-HAR,BĐS An Dương Thảo Điền,Bất động sản
-HAP,Tập đoàn Hapaco,Tài nguyên Cơ bản
-HAH,Vận tải và Xếp dỡ Hải An,Hàng & Dịch vụ Công nghiệp
-HAG,Hoàng Anh Gia Lai,Thực phẩm và đồ uống
-GVR,Tập đoàn CN Cao su VN,Hóa chất
-GTA,Gỗ Thuận An,Tài nguyên Cơ bản
-GSP,Vận tải Sản phẩm Khí Quốc tế,Hàng & Dịch vụ Công nghiệp
-GMH,Minh Hưng Quảng Trị,Xây dựng và Vật liệu
-GMD,Gemadept,Hàng & Dịch vụ Công nghiệp
-GMC,Garmex Sài Gòn,Hàng cá nhân & Gia dụng
-GIL,XNK Bình Thạnh,Hàng cá nhân & Gia dụng
-GEX,Tập đoàn Gelex,Hàng & Dịch vụ Công nghiệp
-GEG,Điện Gia Lai,"Điện, nước & xăng dầu khí đốt"
-GEE,Thiết bị điện GELEX,Hàng & Dịch vụ Công nghiệp
-GDT,Gỗ Đức Thành,Hàng cá nhân & Gia dụng
-GAS,PV Gas,"Điện, nước & xăng dầu khí đốt"
-FUEVN100,X,Quỹ
-FUEVFVND,X,Quỹ
-FUESSVFL,X,Quỹ
-FUESSV50,X,Quỹ
-FUESSV30,X,Quỹ
-FUEMAVND,X,Quỹ
-FUEMAV30,X,Quỹ
-FUEKIVND,X,Quỹ
-FUEKIVFS,X,Quỹ
-FUEKIV30,X,Quỹ
-FUEIP100,X,Quỹ
-FUEFCV50,X,Quỹ
-FUEDCMID,X,Quỹ
-FUCVREIT,X,Quỹ
-FUCTVGF4,X,Quỹ
-FUCTVGF3,X,Quỹ
-FTS,Chứng khoán FPT,Dịch vụ tài chính
-FRT,Bán lẻ FPT,Bán lẻ
-FPT,FPT Corp,Công nghệ Thông tin
-FMC,Thực phẩm Sao Ta,Thực phẩm và đồ uống
-FIT,Tập đoàn F.I.T,Dịch vụ tài chính
-FIR,Địa ốc First Real,Bất động sản
-FDC,FIDECO,Bất động sản
-FCN,FECON CORP,Xây dựng và Vật liệu
-FCM,Khoáng sản FECON,Xây dựng và Vật liệu
-EVG,Tập đoàn Everland,Xây dựng và Vật liệu
-EVF,Tài chính Điện lực,Dịch vụ tài chính
-EVE,Everpia,Hàng cá nhân & Gia dụng
-ELC,ELCOM,Công nghệ Thông tin
-EIB,Eximbank,Ngân hàng
-E1VFVN30,X,Quỹ
-DXV,Vật liệu Xây dựng Đà Nẵng,Xây dựng và Vật liệu
-DXS,Dịch vụ BĐS Đất Xanh,Bất động sản
-DXG,Địa ốc Đất Xanh,Bất động sản
-DVP,ĐT và PT Cảng Đình Vũ,Hàng & Dịch vụ Công nghiệp
-DTT,Kỹ nghệ Đô Thành,Hóa chất
-DTL,Đại Thiên Lộc,Tài nguyên Cơ bản
-DTA,BĐS Đệ Tam,Bất động sản
-DSN,Công viên nước Đầm Sen,Du lịch và Giải trí
-DSE,Chứng Khoán DNSE,Dịch vụ tài chính
-DRL,Thủy điện - Điện lực 3,"Điện, nước & xăng dầu khí đốt"
-DRH,DRH Holdings,Bất động sản
-DRC,Cao su Đà Nẵng,Ô tô và phụ tùng
-DQC,Tập đoàn Điện Quang,Hàng cá nhân & Gia dụng
-DPR,Cao su Đồng Phú,Hóa chất
-DPM,Tổng Công ty Phân bón và Hóa chất Dầu khí,Hóa chất
-DPG,Tập đoàn Đạt Phương,Xây dựng và Vật liệu
-DMC,Dược phẩm DOMESCO,Y tế
-DLG,Đức Long Gia Lai,Tài nguyên Cơ bản
-DIG,DIC Corp,Bất động sản
-DHM,Khoáng sản Dương Hiếu,Tài nguyên Cơ bản
-DHG,Dược Hậu Giang,Y tế
-DHC,Đông Hải Bến Tre,Tài nguyên Cơ bản
-DHA,Hóa An,Xây dựng và Vật liệu
-DGW,Thế Giới Số,Bán lẻ
-DGC,Hóa chất Đức Giang,Hóa chất
-DCM,Đạm Cà Mau,Hóa chất
-DCL,Dược phẩm Cửu Long,Y tế
-DC4,Xây dựng DIC Holdings,Xây dựng và Vật liệu
-DBT,Dược phẩm Bến Tre,Y tế
-DBD,Dược - TB Y tế Bình Định,Y tế
-DBC,Tập đoàn DABACO,Thực phẩm và đồ uống
-DAT,ĐT Du lịch và PT Thủy sản,Thực phẩm và đồ uống
-DAH,Tập đoàn Khách sạn Đông Á,Du lịch và Giải trí
-DAG,TĐ Nhựa Đông Á,Hóa chất
-D2D,Phát triển Đô thị số 2,Bất động sản
-CVT,CMC JSC,Xây dựng và Vật liệu
-CVRE2404,X,Quỹ
-CVRE2403,X,Quỹ
-CVRE2402,X,Quỹ
-CVRE2401,X,Quỹ
-CVRE2320,X,Quỹ
-CVRE2315,X,Quỹ
-CVPB2406,X,Quỹ
-CVPB2405,X,Quỹ
-CVPB2404,X,Quỹ
-CVPB2403,X,Quỹ
-CVPB2402,X,Quỹ
-CVPB2401,X,Quỹ
-CVPB2319,X,Quỹ
-CVPB2315,X,Quỹ
-CVNM2404,X,Quỹ
-CVNM2403,X,Quỹ
-CVNM2402,X,Quỹ
-CVNM2401,X,Quỹ
-CVNM2315,X,Quỹ
-CVNM2311,X,Quỹ
-CVIC2403,X,Quỹ
-CVIC2402,X,Quỹ
-CVIC2401,X,Quỹ
-CVIC2314,X,Quỹ
-CVIC2309,X,Quỹ
-CVIB2404,X,Quỹ
-CVIB2403,X,Quỹ
-CVIB2402,X,Quỹ
-CVIB2305,X,Quỹ
-CVHM2405,X,Quỹ
-CVHM2404,X,Quỹ
-CVHM2403,X,Quỹ
-CVHM2402,X,Quỹ
-CVHM2318,X,Quỹ
-CVHM2313,X,Quỹ
-CTS,Chứng khoán Vietinbank,Dịch vụ tài chính
-CTR,Công trình Viettel,Xây dựng và Vật liệu
-CTPB2402,X,Quỹ
-CTI,Cường Thuận IDICO,Xây dựng và Vật liệu
-CTG,VietinBank,Ngân hàng
-CTF,City Auto,Ô tô và phụ tùng
-CTD,Xây dựng Coteccons,Xây dựng và Vật liệu
-CTCB2402,X,Quỹ
-CTCB2310,X,Quỹ
-CSV,Hóa chất Cơ bản miền Nam,Hóa chất
-CSTB2407,X,Quỹ
-CSTB2406,X,Quỹ
-CSTB2405,X,Quỹ
-CSTB2404,X,Quỹ
-CSTB2403,X,Quỹ
-CSTB2402,X,Quỹ
-CSTB2337,X,Quỹ
-CSTB2333,X,Quỹ
-CSTB2328,X,Quỹ
-CSM,Cao su Miền Nam,Ô tô và phụ tùng
-CSHB2306,X,Quỹ
-CRE,Bất động sản Thế Kỷ,Bất động sản
-CRC,Create Capital Việt Nam,Xây dựng và Vật liệu
-CPOW2315,X,Quỹ
-COM,Vật tư Xăng dầu,Bán lẻ
-CNG,CNG Việt Nam,"Điện, nước & xăng dầu khí đốt"
-CMX,CAMIMEX Group,Thực phẩm và đồ uống
-CMWG2404,X,Quỹ
-CMWG2403,X,Quỹ
-CMWG2402,X,Quỹ
-CMWG2401,X,Quỹ
-CMWG2314,X,Quỹ
-CMV,Thương nghiệp Cà Mau,Bán lẻ
-CMSN2403,X,Quỹ
-CMSN2402,X,Quỹ
-CMSN2401,X,Quỹ
-CMSN2317,X,Quỹ
-CMSN2313,X,Quỹ
-CMG,Tập đoàn Công nghệ CMC,Công nghệ Thông tin
-CMBB2404,X,Quỹ
-CMBB2403,X,Quỹ
-CMBB2402,X,Quỹ
-CMBB2315,X,Quỹ
-CLW,Cấp nước Chợ Lớn,"Điện, nước & xăng dầu khí đốt"
-CLL,Cảng Cát Lái,Hàng & Dịch vụ Công nghiệp
-CLC,Thuốc lá Cát Lợi,Hàng cá nhân & Gia dụng
-CKG,Xây dựng Kiên Giang,Bất động sản
-CII,Hạ tầng Kỹ thuật TP.HCM,Xây dựng và Vật liệu
-CIG,Xây dựng COMA 18,Xây dựng và Vật liệu
-CHPG2405,X,Quỹ
-CHPG2404,X,Quỹ
-CHPG2403,X,Quỹ
-CHPG2402,X,Quỹ
-CHPG2342,X,Quỹ
-CHPG2339,X,Quỹ
-CHPG2334,X,Quỹ
-CHPG2333,X,Quỹ
-CHPG2332,X,Quỹ
-CHPG2331,X,Quỹ
-CHP,Thủy điện Miền Trung,"Điện, nước & xăng dầu khí đốt"
-CFPT2401,X,Quỹ
-CFPT2317,X,Quỹ
-CFPT2314,X,Quỹ
-CDC,Chương Dương Corp,Xây dựng và Vật liệu
-CCL,ĐT & PT Đô thị Dầu khí Cửu Long,Bất động sản
-CCI,CIDICO,"Điện, nước & xăng dầu khí đốt"
-CACB2402,X,Quỹ
-CACB2305,X,Quỹ
-C47,Xây dựng 47,Xây dựng và Vật liệu
-C32,CIC39,Xây dựng và Vật liệu
-BWE,Nước - Môi trường Bình Dương,"Điện, nước & xăng dầu khí đốt"
-BVH,Tập đoàn Bảo Việt,Bảo hiểm
-BTT,TM - DV Bến Thành,Bán lẻ
-BTP,Nhiệt điện Bà Rịa,"Điện, nước & xăng dầu khí đốt"
-BSI,Chứng khoán BIDV,Dịch vụ tài chính
-BRC,Cao su Bến Thành,Hóa chất
-BMP,Nhựa Bình Minh,Xây dựng và Vật liệu
-BMI,Bảo hiểm Bảo Minh,Bảo hiểm
-BMC,Khoáng sản Bình Định,Tài nguyên Cơ bản
-BKG,Đầu tư BKG Việt Nam,Hàng cá nhân & Gia dụng
-BID,BIDV,Ngân hàng
-BIC,Bảo hiểm BIDV,Bảo hiểm
-BHN,HABECO,Thực phẩm và đồ uống
-BFC,Phân bón Bình Điền,Hóa chất
-BCM,Becamex IDC,Bất động sản
-BCG,Bamboo Capital,Dịch vụ tài chính
-BCE,XD và GT Bình Dương,Xây dựng và Vật liệu
-BBC,Bánh kẹo BIBICA,Thực phẩm và đồ uống
-BAF,Nông nghiệp BAF Việt Nam,Thực phẩm và đồ uống
-AST,Dịch vụ Hàng không Taseco,Bán lẻ
-ASP,Dầu khí An Pha,"Điện, nước & xăng dầu khí đốt"
-ASM,Tập đoàn Sao Mai,Thực phẩm và đồ uống
-ASG,Tập đoàn ASG,Hàng & Dịch vụ Công nghiệp
-APH,Tập đoàn An Phát Holdings,Hàng & Dịch vụ Công nghiệp
-APG,Chứng khoán APG,Dịch vụ tài chính
-ANV,Thủy sản Nam Việt,Thực phẩm và đồ uống
-AGR,Agriseco,Dịch vụ tài chính
-AGM,XNK An Giang,Thực phẩm và đồ uống
-AGG,Bất động sản An Gia,Bất động sản
-ADS,Dệt sợi DAMSAN,Hàng cá nhân & Gia dụng
-ADP,Sơn Á Đông,Xây dựng và Vật liệu
-ADG,Clever Group,Truyền thông
-ACL,Thủy sản CL An Giang,Thực phẩm và đồ uống
-ACG,Gỗ An Cường,Tài nguyên Cơ bản
-ACC,Đầu tư và XD Bình Dương ACC,Xây dựng và Vật liệu
-ACB,ACB,Ngân hàng
-ABT,Thủy sản Bến Tre,Thực phẩm và đồ uống
-ABS,DV Nông nghiệp Bình Thuận,Thực phẩm và đồ uống
-ABR,Đầu tư Nhãn Hiệu Việt,Hàng & Dịch vụ Công nghiệp
-AAT,Tập đoàn Tiên Sơn Thanh Hóa,Hàng cá nhân & Gia dụng
-AAM,Thủy sản Mekong,Thực phẩm và đồ uống
-AAA,An Phát Bioplastics,Hóa chất
+,Symbol,short_name,industry
+0,VTO,VITACO,Hàng & Dịch vụ Công nghiệp
+1,VRE,Vincom Retail,Bất động sản
+2,VPG,Đầu tư TMại XNK Việt Phát,Tài nguyên Cơ bản
+3,VNL,Vinalink Logistics,Hàng & Dịch vụ Công nghiệp
+4,VNG,DL Thành Thành Công,Du lịch và Giải trí
+5,VNE,Xây dựng điện Việt Nam,Xây dựng và Vật liệu
+6,VJC,Vietjet Air,Du lịch và Giải trí
+7,VIB,VIBBank,Ngân hàng
+8,VHC,Thủy sản Vĩnh Hoàn,Thực phẩm và đồ uống
+9,VCI,Chứng khoán Vietcap,Dịch vụ tài chính
+10,VCB,Vietcombank,Ngân hàng
+11,TVT,May Việt Thắng,Hàng cá nhân & Gia dụng
+12,TVS,Chứng khoán Thiên Việt,Dịch vụ tài chính
+13,TV2,Tư vấn XD Điện 2,Hàng & Dịch vụ Công nghiệp
+14,TTF,Gỗ Trường Thành,Tài nguyên Cơ bản
+15,TSC,Kỹ thuật NN Cần Thơ,Hóa chất
+16,TMS,Transimex,Hàng & Dịch vụ Công nghiệp
+17,TLG,Tập đoàn Thiên Long,Hàng cá nhân & Gia dụng
+18,TLD,ĐT XD và PT Đô thị Thăng Long,Bất động sản
+19,THG,XD Tiền Giang,Xây dựng và Vật liệu
+20,TDW,Cấp nước Thủ Đức,"Điện, nước & xăng dầu khí đốt"
+21,TDG,Đầu tư TDG Global,"Điện, nước & xăng dầu khí đốt"
+22,TDC,Becamex TDC,Bất động sản
+23,TCM,Dệt may Thành Công,Hàng cá nhân & Gia dụng
+24,TCL,Tan Cang Logistics,Hàng & Dịch vụ Công nghiệp
+25,TCH,ĐT DV Tài chính Hoàng Huy,Bất động sản
+26,TCB,Techcombank,Ngân hàng
+27,STK,Sợi Thế Kỷ,Hàng cá nhân & Gia dụng
+28,STB,Sacombank,Ngân hàng
+29,SSI,Chứng khoán SSI,Dịch vụ tài chính
+30,SCS,DV Hàng hóa Sài Gòn,Du lịch và Giải trí
+31,SCR,TTC Land,Bất động sản
+32,SAB,SABECO,Thực phẩm và đồ uống
+33,QCG,Quốc Cường Gia Lai,Bất động sản
+34,PVT,Vận tải Dầu khí PVTrans,Hàng & Dịch vụ Công nghiệp
+35,PTL,Victory Capital,Bất động sản
+36,PTC,Đầu tư ICAPITAL,Xây dựng và Vật liệu
+37,PTB,Công ty Cổ phần Phú Tài,Tài nguyên Cơ bản
+38,POW,Điện lực Dầu khí Việt Nam,"Điện, nước & xăng dầu khí đốt"
+39,PGD,PV GAS D,"Điện, nước & xăng dầu khí đốt"
+40,PGC,Gas Petrolimex,"Điện, nước & xăng dầu khí đốt"
+41,PC1,Tập đoàn PC1,Xây dựng và Vật liệu
+42,OGC,Tập đoàn Đại Dương,Dịch vụ tài chính
+43,NTL,Đô thị Từ Liêm,Bất động sản
+44,NLG,BĐS Nam Long,Bất động sản
+45,NCT,DV Hàng hóa Nội Bài,Hàng & Dịch vụ Công nghiệp
+46,NAF,Nafoods Group,Thực phẩm và đồ uống
+47,MSB,MSB Bank,Ngân hàng
+48,MCP,In và Bao bì Mỹ Châu,Hàng & Dịch vụ Công nghiệp
+49,MBB,MBBank,Ngân hàng
+50,LSS,Mía đường Lam Sơn,Thực phẩm và đồ uống
+51,LPB,LPBank,Ngân hàng
+52,LIX,Bột Giặt Lix,Hàng cá nhân & Gia dụng
+53,LHG,KCN Long Hậu,Bất động sản
+54,LCG,LIZEN,Xây dựng và Vật liệu
+55,KOS,Công ty KOSY,Bất động sản
+56,KHP,Điện lực Khánh Hòa,"Điện, nước & xăng dầu khí đốt"
+57,KDC,Tập đoàn KIDO,Thực phẩm và đồ uống
+58,KBC,TCT Đô thị Kinh Bắc,Bất động sản
+59,JVC,Đầu tư và Phát triển Y tế Việt Nhật,Y tế
+60,IJC,Becamex IJC,Bất động sản
+61,HVH,Đầu tư và Công nghệ HVC,Xây dựng và Vật liệu
+62,HUB,Xây lắp Huế,Xây dựng và Vật liệu
+63,HTI,PT Hạ tầng IDICO,Xây dựng và Vật liệu
+64,HSL,Thực phẩm Hồng Hà,Thực phẩm và đồ uống
+65,HSG,Tập đoàn Hoa Sen,Tài nguyên Cơ bản
+66,HQC,Địa ốc Hoàng Quân,Bất động sản
+67,HPG,Hòa Phát,Tài nguyên Cơ bản
+68,HID,Halcom Vietnam,Xây dựng và Vật liệu
+69,HDC,Phát triển Nhà BR-VT,Bất động sản
+70,HDB,HDBank,Ngân hàng
+71,HAX,Ô tô Hàng Xanh,Ô tô và phụ tùng
+72,GMD,Gemadept,Hàng & Dịch vụ Công nghiệp
+73,GIL,XNK Bình Thạnh,Hàng cá nhân & Gia dụng
+74,GEG,Điện Gia Lai,"Điện, nước & xăng dầu khí đốt"
+75,GDT,Gỗ Đức Thành,Hàng cá nhân & Gia dụng
+76,FTS,Chứng khoán FPT,Dịch vụ tài chính
+77,ELC,ELCOM,Công nghệ Thông tin
+78,DXG,Địa ốc Đất Xanh,Bất động sản
+79,DVP,ĐT và PT Cảng Đình Vũ,Hàng & Dịch vụ Công nghiệp
+80,DQC,Tập đoàn Điện Quang,Hàng cá nhân & Gia dụng
+81,DPR,Cao su Đồng Phú,Hóa chất
+82,DPG,Tập đoàn Đạt Phương,Xây dựng và Vật liệu
+83,DGC,Hóa chất Đức Giang,Hóa chất
+84,DCL,Dược phẩm Cửu Long,Y tế
+85,DC4,Xây dựng DIC Holdings,Xây dựng và Vật liệu
+86,CTS,Chứng khoán Vietinbank,Dịch vụ tài chính
+87,CTI,Cường Thuận IDICO,Xây dựng và Vật liệu
+88,CTG,VietinBank,Ngân hàng
+89,CTD,Xây dựng Coteccons,Xây dựng và Vật liệu
+90,CSM,Cao su Miền Nam,Ô tô và phụ tùng
+91,CNG,CNG Việt Nam,"Điện, nước & xăng dầu khí đốt"
+92,CMV,Thương nghiệp Cà Mau,Bán lẻ
+93,CLL,Cảng Cát Lái,Hàng & Dịch vụ Công nghiệp
+94,CCL,ĐT & PT Đô thị Dầu khí Cửu Long,Bất động sản
+95,C47,Xây dựng 47,Xây dựng và Vật liệu
+96,BWE,Nước - Môi trường Bình Dương,"Điện, nước & xăng dầu khí đốt"
+97,BVH,Tập đoàn Bảo Việt,Bảo hiểm
+98,BMP,Nhựa Bình Minh,Xây dựng và Vật liệu
+99,BMI,Bảo hiểm Bảo Minh,Bảo hiểm
+100,BMC,Khoáng sản Bình Định,Tài nguyên Cơ bản
+101,BKG,Đầu tư BKG Việt Nam,Hàng cá nhân & Gia dụng
+102,BIC,Bảo hiểm BIDV,Bảo hiểm
+103,AST,Dịch vụ Hàng không Taseco,Bán lẻ
+104,ASP,Dầu khí An Pha,"Điện, nước & xăng dầu khí đốt"
+105,ASM,Tập đoàn Sao Mai,Thực phẩm và đồ uống
+106,APG,Chứng khoán APG,Dịch vụ tài chính
+107,ANV,Thủy sản Nam Việt,Thực phẩm và đồ uống
+108,AGR,Agriseco,Dịch vụ tài chính
+109,AGM,XNK An Giang,Thực phẩm và đồ uống
+110,ADS,Dệt sợi DAMSAN,Hàng cá nhân & Gia dụng
+111,ACL,Thủy sản CL An Giang,Thực phẩm và đồ uống
+112,ACC,Đầu tư và XD Bình Dương ACC,Xây dựng và Vật liệu
